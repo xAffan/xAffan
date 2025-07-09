@@ -24,7 +24,7 @@ A robust Python library for solving captchas through browser automation. It prov
 
 *   **Features:**
     *   Automatically opens captchas in the user's browser.
-    *   Supports ReCaptcha v2, hCaptcha, and custom challenges.
+    *   Supports ReCaptcha v2, Recaptcha v3, hCaptcha, Cloudflare Turnstile, and custom challenges.
     *   Uses a non-blocking, threaded HTTP server.
     *   Simple and intuitive API for developers.
 *   **Technologies:** Python, requests
