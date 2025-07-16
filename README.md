@@ -29,7 +29,7 @@ A robust Python library for solving captchas through browser automation. It prov
     * Simple and intuitive API for developers.
 * **Technologies:** Python, requests
 
-### [SAT Quiz App](https://github.com/xAffan/sat_quiz) 📚
+### [xSAT: Quiz](https://github.com/xAffan/sat_quiz) 📚
 
 A comprehensive practice quiz application built with Flutter to help students prepare for the SAT. It features an intuitive interface, advanced filtering capabilities, and a rich question database.
 
