@@ -62,10 +62,6 @@ A fun 2D platformer game developed with the Godot engine. Play solo or with a fr
     * Adorable slime character.
 * **Technologies:** Godot Engine, GDScript
 
-### [discord-token-invite-joiner](https://github.com/xAffan/discord-token-invite-joiner)
-
-A Python script that automatically joins a Discord server using a list of tokens. *Please note, this project is for educational purposes and is no longer actively maintained.*
-
 ---
 
 ## 🔬 Experience
