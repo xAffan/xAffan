@@ -31,14 +31,17 @@ A robust Python library for solving captchas through browser automation. It prov
 
 ### [xSAT](https://xaffan.github.io/xsat/) 📚
 
-A comprehensive practice quiz application built with Flutter to help students prepare for the SAT. It features an intuitive interface, advanced filtering capabilities, and a rich question database.
+A comprehensive SAT practice quiz application built with Flutter, designed to help students prepare for the SAT with an intuitive interface, advanced filtering capabilities, and cloud synchronization.
 
 * **Features:**
-    * **Extensive Question Bank:** A wide variety of SAT practice questions.
-    * **Advanced Filtering:** Filter questions by category and difficulty.
-    * **Rich Content Rendering:** Supports HTML with math and tables for complex questions.
-    * **Cross-Platform:** Available as a fully functional web demo and can be built for mobile devices.
-* **Technologies:** Flutter, Dart, Provider, http, pdf, shared_preferences
+    * **Comprehensive Question Bank:** Practice with real SAT questions for both English and Math sections.
+    * **Advanced Filtering:** Filter questions by skill categories and difficulty levels with persistent preferences.
+    * **Cloud Synchronization:** Google Sign-In integration with real-time sync across devices and conflict resolution.
+    * **Progress Tracking:** Comprehensive mistake history with search functionality and detailed analysis.
+    * **Modern UI:** Material Design 3 with adaptive theming, smooth animations, and responsive layout.
+    * **Rich Content Rendering:** Support for HTML with mathematical expressions, tables, and SVG graphics.
+    * **Cross-Platform:** Available as a web demo and can be built for mobile and desktop platforms.
+* **Technologies:** Flutter, Firebase Auth, Cloud Firestore, Provider, Hive, flutter_html
 
 ### [Traffic Safety Hub](https://github.com/xAffan/traffic-quiz) 🚦
 
