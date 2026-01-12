@@ -18,17 +18,6 @@ You can learn more about my work on my personal website: [xaffan.github.io](http
 
 Here are some of the projects I'm proud of:
 
-### [browser_captcha_solver](https://github.com/xAffan/browser_captcha_solver)
-
-A robust Python library for solving captchas through browser automation. It provides seamless integration between web captcha services and your Python applications.
-
-* **Features:**
-    * Automatically opens captchas in the user's browser.
-    * Supports ReCaptcha v2, Recaptcha v3, hCaptcha, Cloudflare Turnstile, and custom challenges.
-    * Uses a non-blocking, threaded HTTP server.
-    * Simple and intuitive API for developers.
-* **Technologies:** Python, requests
-
 ### [xSAT](https://github.com/xAffan/xsat/) 📚
 
 A comprehensive SAT practice quiz application built with Flutter, designed to help students prepare for the SAT with an intuitive interface, advanced filtering capabilities, and cloud synchronization.
