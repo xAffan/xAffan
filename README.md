@@ -8,7 +8,7 @@ You can learn more about my work on my personal website: [xaffan.github.io](http
 
 ## 🚀 What I do
 
-* 🐍 **Python Development:** I have a strong command of Python and use it to build a variety of applications, from web scrapers and automation tools to sophisticated scripts for security testing.
+* 🐍 **Python Development:** I have a strong command of Python and use it to build a variety of applications.
 * 📱 **Flutter Development:** I leverage Flutter to create beautiful, responsive, and cross-platform mobile applications with a focus on user experience and performance.
 * 🔒 **Cybersecurity:** I'm a security researcher with a focus on finding and responsibly disclosing vulnerabilities in web and mobile applications. I have experience in analyzing application security and contributing to the open-source security community.
 
@@ -31,17 +31,6 @@ A comprehensive SAT practice quiz application built with Flutter, designed to he
     * **Rich Content Rendering:** Support for HTML with mathematical expressions, tables, and SVG graphics.
     * **Cross-Platform:** Available as a web demo and can be built for mobile and desktop platforms.
 * **Technologies:** Flutter, Firebase Auth, Cloud Firestore, Provider, Hive, flutter_html
-
-### [Traffic Safety Hub](https://github.com/xAffan/traffic-quiz) 🚦
-
-A comprehensive traffic safety education website built with Jekyll, featuring interactive quizzes, expert safety tips, and a modern responsive design.
-
-* **Features:**
-    * **Interactive Quizzes:** Carefully crafted questions with instant feedback, progress tracking, and difficulty levels.
-    * **Safety Blog:** In-depth guides on defensive driving, road signs, and real-world safety tips.
-    * **Modern & Responsive:** Clean, fast-loading, and accessible design optimized for all devices.
-    * **Jekyll-Powered:** Easily extensible with new quizzes and blog posts via simple Markdown files.
-* **Technologies:** Jekyll, HTML, CSS, JavaScript
 
 ### [slime-escape](https://github.com/xAffan/slime-escape) 👾
 
